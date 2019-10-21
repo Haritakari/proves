@@ -1,0 +1,7 @@
+{
+  "name": "front-watermelon",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
